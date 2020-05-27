@@ -31,12 +31,12 @@ Unique GUI software
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(118).png)
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(119).png)
 
-#========================Dark MODE=====================#
-#========================Dark MODE=====================#
-#========================Dark MODE=====================#
-#========================Dark MODE=====================#
-#========================Dark MODE=====================#
-#========================Dark MODE=====================#
+#======================Dark MODE=====================#
+#======================Dark MODE=====================#
+#======================Dark MODE=====================#
+#======================Dark MODE=====================#
+#======================Dark MODE=====================#
+#======================Dark MODE=====================#
 
 #******************Admin**********************
 
