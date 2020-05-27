@@ -1,5 +1,5 @@
 # Student-Database-Management
-Unique GUI software
+>Unique GUI software
 
 #========================LIGHT MODE=====================#
 #========================LIGHT MODE=====================#
