@@ -10,25 +10,26 @@ Unique GUI software
 
 #******************Admin**********************
 
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(74).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(75).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(76).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(77).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(78).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(89).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(79).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(80).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(142).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(143).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(144).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(145).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(146).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(147).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(148).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(149).png)
 
 #*****************Employee*******************
 
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(81).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(82).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(83).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(84).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(85).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(86).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(87).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(88).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(111).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(112).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(113).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(114).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(115).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(116).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(117).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(118).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(119).png)
 
 #========================Dark MODE=====================#
 #========================Dark MODE=====================#
@@ -39,23 +40,27 @@ Unique GUI software
 
 #******************Admin**********************
 
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(90).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(91).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(92).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(93).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(94).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(95).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(96).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(97).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(120).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(121).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(122).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(123).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(124).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(125).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(126).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(127).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(128).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(129).png)
 
 #****************Employee*********************
 
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(98).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(99).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(100).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(101).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(102).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(103).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(104).png)
-![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20Output%20Pics/Screenshot%20(105).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(132).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(133).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(134).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(135).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(136).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(137).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(138).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(139).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(140).png)
+![alt text](https://github.com/aj14799/Advance-Student-Management-System1/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(141).png)
 
