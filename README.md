@@ -10,7 +10,7 @@ Unique GUI software
 
 #******************Admin**********************
 
-![alt text](https://github.com/aj14799/Advance-Student-Management-System/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(142).png)
+![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(142).png)
 ![alt text](https://github.com/aj14799/Advance-Student-Management-System/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(143).png)
 ![alt text](https://github.com/aj14799/Advance-Student-Management-System/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(144).png)
 ![alt text](https://github.com/aj14799/Advance-Student-Management-System/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(145).png)
