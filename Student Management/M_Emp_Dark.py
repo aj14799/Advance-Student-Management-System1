@@ -599,7 +599,7 @@ class win1:
 
 
     def update1(self):
-
+        cv2.destroyAllWindows()
         
         self.con2 = str(region_code_for_country_code(self.code.get()))
         self.conn=sqlite3.connect("sdms.db")
@@ -613,7 +613,7 @@ class win1:
                 #rint (a)
                 #print(type(a)) 
                 #print("True")
-                return messagebox.showinfo("Info","Image mage be to Small to Load min(130x100)")  
+                messagebox.showinfo("Info","Image mage be to Small to Load min(130x100)")  
                 self.filename = filedialog.askopenfilename(initialdir = "/", title ="Upload Image", filetype=(("jpeg","*jpg"),("All Files","*.*"))) 
                 self.lbl=Label(self.FM1,text="")
                 
