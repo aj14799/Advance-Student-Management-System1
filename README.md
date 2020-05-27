@@ -63,3 +63,14 @@
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(139).png)
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(140).png)
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(141).png)
+
+
+
+
+
+#=========================OUTPUT TABLES=====================
+
+
+
+
+![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(150).png)
