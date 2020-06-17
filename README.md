@@ -24,11 +24,11 @@ Used the following External Packages
 => OpenCV :- pip install opencv-python
 
 
-### ========================LIGHT MODE=====================
+# ========================LIGHT MODE=====================
 
 
 
-##### ******************Admin**********************
+## ******************Admin
 
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(142).png)
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(143).png)
@@ -39,7 +39,8 @@ Used the following External Packages
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(148).png)
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(149).png)
 
-##### *****************Employee*******************
+##*****************Employee
+
 
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(111).png)
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(112).png)
@@ -52,10 +53,10 @@ Used the following External Packages
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(119).png)
 
 
-### =======================Dark MODE======================
+# =======================Dark MODE======================
 
 
-# ******************Admin
+## ******************Admin
 
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(120).png)
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(121).png)
@@ -68,7 +69,7 @@ Used the following External Packages
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(128).png)
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(129).png)
 
-##### ****************Employee*********************
+## ****************Employee
 
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(132).png)
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(133).png)
@@ -85,7 +86,7 @@ Used the following External Packages
 
 
 
-#### =========================OUTPUT TABLES=====================
+# =========================OUTPUT TABLES=====================
 
 
 
