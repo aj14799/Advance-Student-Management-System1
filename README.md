@@ -24,7 +24,7 @@ Used the following External Packages
 => OpenCV :- pip install opencv-python
 
 
-### ========================LIGHT MODE=====================#
+### ========================LIGHT MODE=====================
 
 
 
@@ -51,9 +51,11 @@ Used the following External Packages
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(118).png)
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(119).png)
 
-### ==============================Dark MODE=============================#
 
-# ******************Admin**********************
+### =======================Dark MODE======================
+
+
+# ******************Admin
 
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(120).png)
 ![alt text](https://github.com/aj14799/Advanced-Student-Database-Management/blob/master/GUI%20OUTPUT/Screenshots/Screenshot%20(121).png)
