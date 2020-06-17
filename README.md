@@ -1,6 +1,29 @@
 # Student-Database-Management
 >Unique GUI software
 
+A Desktop GUI Application for Adiminstration of Colleges and Universities to manage Student Profiles. Main Data Handle by Admin and Employees can only add students and see details. Where except text data it contain student pictorial data that help to identify student more easily.
+
+#### *In this GUI Project dark mode is also introduce and working on it to make it more efficient and better for user.
+
+The Application is based on python GUI programming. 
+Used the following External Packages
+
+
+### ===============External Python Packages Used =================
+
+=> Sqlite3 :- pip install db-sqlite3
+
+=> webbrowser :- pip install webbrowser
+
+=> tkcalendar :- pip install tkcalendar
+
+=> pycountry :- pip install pycountry
+
+=> phonenumbers :- pip install phonenumbers
+
+=> OpenCV :- pip install opencv-python
+
+
 #========================LIGHT MODE=====================#
 #========================LIGHT MODE=====================#
 #========================LIGHT MODE=====================#
