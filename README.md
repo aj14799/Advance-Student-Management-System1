@@ -1,5 +1,5 @@
 # Student-Database-Management
->Unique GUI software
+>Unique GUI software by Aditya Jha
 
 A Desktop GUI Application for Adiminstration of Colleges and Universities to manage Student Profiles. Main Data Handle by Admin and Employees can only add students and see details. Where except text data it contain student pictorial data that help to identify student more easily.
 
